@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<link rel="icon" href="res/images/favicon.ico">
+	<title>My Dashboard</title>
+</head>
+<body>
+<header>
+	<strong>Welcome to your dashboard!</strong>
+</header>
+<footer>
+	<ul>
+		<li>
+			<a href="https://ois2.ut.ee/">OIS</a>
+		</li>
+		<li>
+			<a href="https://courses.cs.ut.ee/">Courses</a>
+		</li>
+	</ul>
+</body>
+</html>
